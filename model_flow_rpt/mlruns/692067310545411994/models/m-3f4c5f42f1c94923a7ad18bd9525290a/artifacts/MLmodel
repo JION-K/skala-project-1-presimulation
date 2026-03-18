@@ -1,0 +1,29 @@
+artifact_path: file:///Users/skala/Desktop/SKALA/workspace/model_flow_rpt/mlruns/692067310545411994/models/m-3f4c5f42f1c94923a7ad18bd9525290a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.0
+model_id: m-3f4c5f42f1c94923a7ad18bd9525290a
+model_size_bytes: 713180
+model_uuid: m-3f4c5f42f1c94923a7ad18bd9525290a
+prompts: null
+run_id: c936f0c744a1411eadc10d79d37027fe
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 10]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-05 00:45:59.790614'

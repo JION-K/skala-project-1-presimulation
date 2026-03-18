@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/skala/Desktop/SKALA/workspace/model_flow_rpt/mlruns/692067310545411994/c936f0c744a1411eadc10d79d37027fe/artifacts
+end_time: 1772671560998
+entry_point_name: ''
+experiment_id: '692067310545411994'
+lifecycle_stage: active
+run_id: c936f0c744a1411eadc10d79d37027fe
+run_name: skala-rf-0305_0945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772671559724
+status: 3
+tags: []
+user_id: skala

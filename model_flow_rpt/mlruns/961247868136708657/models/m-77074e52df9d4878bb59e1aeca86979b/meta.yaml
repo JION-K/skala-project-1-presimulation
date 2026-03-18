@@ -1,0 +1,10 @@
+artifact_location: file:///Users/skala/Desktop/SKALA/workspace/model_flow_rpt/mlruns/961247868136708657/models/m-77074e52df9d4878bb59e1aeca86979b/artifacts
+creation_timestamp: 1772672965117
+experiment_id: '961247868136708657'
+last_updated_timestamp: 1772672966369
+model_id: m-77074e52df9d4878bb59e1aeca86979b
+model_type: null
+name: model
+source_run_id: 46a5161690d549f7b5ef458b42fe6e67
+status: 3
+status_message: null
